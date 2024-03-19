@@ -11,4 +11,5 @@ Using the plugin is straightforward. After installation, navigate to the Footer 
 -   **Enhanced Aesthetics:** Improve the aesthetics of your website by changing text color, typography, and size to match your branding and design preferences.
 -   **Professional Appearance**: Maintain a professional appearance with a well-designed footer that includes your custom copyright text.
 -   **Flexibility**: Adjust padding and margin settings to ensure proper spacing and alignment of your footer copyright text, enhancing overall visual appeal.
+<br>
 In conclusion, Forever Auto Updated Copyright Year Footer Note simplifies footer copyright management, offering complete customization control and ensuring your website stays up-to-date effortlessly. Enjoy the convenience of automated year updates and elevate the aesthetics of your website's footer with this powerful WordPress plugin.

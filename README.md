@@ -52,6 +52,12 @@ Just download the zip file and upload it on your dashboard and follow these step
 2. There you will get all option to change the styles and input your customized copyright text
 3. **Note**: *Year will be auto updated so you don't have to worry about it*
 
+## How Use the plugin here is the tutorial:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pCghpHfPxFw/0.jpg)](https://www.youtube.com/watch?v=pCghpHfPxFw)
+
+
+
 **Here is the setting page ss** 👇
 
 ![SS of footer copy right settings page](https://github.com/Gtarafdar/Forever-Auto-Updated-Copyright-Year-Footer-Note-WP-Plugin/blob/main/footer%20copyright%20settings%20page.png?raw=true)

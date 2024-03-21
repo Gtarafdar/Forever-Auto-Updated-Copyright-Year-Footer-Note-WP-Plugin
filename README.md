@@ -2,7 +2,7 @@
 <be>
   
 ---
-# Forever-Auto-Updated-Copyright-Year-Footer-Note-WP-Plugin
+# Forever Auto Updated Year & Copyright Footer Note  - WordPress Plugin
 It will set automated current year and allow you to add and customize the footer copyright text and year color, size, alignment, copyright text, background color, and font styling.
 ---
 ## Description:

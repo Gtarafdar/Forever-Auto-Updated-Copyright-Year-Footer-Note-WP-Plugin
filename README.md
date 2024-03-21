@@ -1,7 +1,9 @@
 <img src="https://github.com/Gtarafdar/Forever-Auto-Updated-Copyright-Year-Footer-Note-WP-Plugin/blob/main/Forever%20Auto%20Updated%20Year%20%20&%20Copyright%20Footer%20Note%20%20%20-%20WordPress%20Plugin.png?raw=true" alt="Forever Auto Updated Copyright Year Footer Note" style="max-width: 100%;">
+<be>
+  
 ---
 # Forever-Auto-Updated-Copyright-Year-Footer-Note-WP-Plugin
-It will set automated current year and allows you to customize the footer text color, size, alignment, copyright text, background color, and font styling.
+It will set automated current year and allow you to add and customize the footer copyright text and year color, size, alignment, copyright text, background color, and font styling.
 ---
 ## Description:
 Forever Auto Updated Copyright Year Footer Note is a versatile WordPress plugin designed to simplify the process of managing and customizing your website's footer copyright text. Say goodbye to manually updating the copyright year every year - this plugin automatically updates the year for you, ensuring your website remains current without any hassle.
@@ -15,27 +17,33 @@ Using the plugin is straightforward. After installation, navigate to the Footer 
 -   **Enhanced Aesthetics:** Improve the aesthetics of your website by changing text color, typography, and size to match your branding and design preferences.
 -   **Professional Appearance**: Maintain a professional appearance with a well-designed footer that includes your custom copyright text.
 -   **Flexibility**: Adjust padding and margin settings to ensure proper spacing and alignment of your footer copyright text, enhancing overall visual appeal.
+
 <be>
-###  Supported Themes
-Here is the list of the supported themes - 
-* Twenty Fifteen,
-* Twenty Sixteen,  
-* Twenty Nineteen, 
-* Twenty Twenty,  
-* Twenty Twenty One, 
-* Twenty Twenty Three, 
-* Twenty Twenty Two, 
-* Twenty Twent- Four, 
-* Astra, 
-* Blocksy, 
-* Generatepress, 
-* Hello Elementor, 
-* Hestia, 
-* Kedence, 
-* OcenWP, 
-* Storefront, 
-* Sydney, 
-* Zakra
+  
+---
+  
+### Supported Themes
+
+Here is the list of the supported themes:
+
+-  Twenty Fifteen,
+-  Twenty Sixteen,  
+-  Twenty Nineteen, 
+-  Twenty Twenty,  
+-  Twenty Twenty One, 
+-  Twenty Twenty Three, 
+-  Twenty Twenty Two, 
+-  Twenty Twent- Four, 
+-  Astra, 
+-  Blocksy, 
+-  Generatepress, 
+-  Hello Elementor, 
+-  Hestia, 
+-  Kedence, 
+-  OcenWP, 
+-  Storefront, 
+-  Sydney, 
+-  Zakra
 
 -----
 ###  How to use it
@@ -44,7 +52,7 @@ Just download the zip file and upload it on your dashboard and follow these step
 2. There you will get all option to change the styles and input your customized copyright text
 3. **Note**: *Year will be auto updated so you don't have to worry about it*
 
-**Here is the seting page ss** 👇
+**Here is the setting page ss** 👇
 
 ![SS of footer copy right settings page](https://github.com/Gtarafdar/Forever-Auto-Updated-Copyright-Year-Footer-Note-WP-Plugin/blob/main/footer%20copyright%20settings%20page.png?raw=true)
 

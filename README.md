@@ -59,3 +59,7 @@ Just download the zip file and upload it on your dashboard and follow these step
 -----
 
 In conclusion, Forever Auto Updated Copyright Year Footer Note simplifies footer copyright management, offering complete customization control and ensuring your website stays up-to-date effortlessly. Enjoy the convenience of automated year updates and elevate the aesthetics of your website's footer with this powerful WordPress plugin.
+
+<be>
+
+<img src="https://github.com/punitkmryh/punitkmryh/raw/master/wave.svg" style="max-width: 100%;">

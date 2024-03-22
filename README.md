@@ -19,7 +19,9 @@ Using the plugin is straightforward. After installation, navigate to the Footer 
 -   **Flexibility**: Adjust padding and margin settings to ensure proper spacing and alignment of your footer copyright text, enhancing overall visual appeal.
 
 <be>
-  
+
+### [Try Demo →](https://tastewp.com/create/NMS/8.0/6.4.3/_tastewp_dae92e14d57cf95a1711082334578_Forever-Auto-Updated-Copyright-Year-Footer-Note-WP-Plugin-main/tastewp-default/WP_DEBUG%2CWP_DEBUG_DISPLAY)
+
 ---
   
 ### Supported Themes
@@ -61,6 +63,12 @@ Just download the zip file and upload it on your dashboard and follow these step
 **Here is the setting page ss** 👇
 
 ![SS of footer copy right settings page](https://github.com/Gtarafdar/Forever-Auto-Updated-Copyright-Year-Footer-Note-WP-Plugin/blob/main/footer%20copyright%20settings%20page.png?raw=true)
+
+
+**Here is the frontend view ss** 👇
+
+![SS of footer copy right frontend style](https://github.com/Gtarafdar/Forever-Auto-Updated-Copyright-Year-Footer-Note-WP-Plugin/blob/main/copyright%20text%20frontend%20view.png?raw=true)
+
 
 -----
 
